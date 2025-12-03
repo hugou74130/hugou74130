@@ -8,9 +8,10 @@
 
 ## 📊 GitHub Stats
 
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugou74130&show_icons=true&theme=tokyonight)
+![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugou74130&show_icons=true&count_private=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hugou74130&layout=compact&theme=tokyonight)
+
 
 ---
 
