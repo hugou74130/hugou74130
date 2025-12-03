@@ -1,16 +1,14 @@
-## Hi there 👋
+# Salut, moi c’est Hugo 👋
 
-<!--
-**hugou74130/hugou74130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en BTS GPME  
+💻 Passionné par l’informatique, le reverse engineering et les langages de programmation  
+🎯 Objectif : Monter en compétences et développer de nouveaux projets
 
-Here are some ideas to get you started:
+## 🔧 Technologies que j’apprends
+- C 
+ 
+## 🚀 Mes projets à venir
+- Scripts d’automatisation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Merci d’être passé sur mon profil !
+
