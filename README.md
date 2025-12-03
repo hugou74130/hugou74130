@@ -1,39 +1,52 @@
-# Hi, I'm Hugo 👋
-
-🎓 **Holberton School**
-💻 Passionate about **programming**, **cybersecurity**, **3D**, and **game development**
-🎯 Goal: improve my skills and build various technical projects
-
-
-
-# 📊 GitHub Stats
-
+<!-- HEADER ANIMÉ -->
+<h1 align="center">
+  Hi, I'm Hugo 👋
+</h1>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hugou74130&theme=tokyonight" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hugou74130&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hugou74130&theme=tokyonight" alt="Commits per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hugou74130&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hugou74130&theme=tokyonight&utcOffset=1" alt="Productive Time" />
+  <em>🎓 Holberton School | 💻 Programming, Cybersecurity, 3D & Game Development | 🎯 Goal: Improve my skills</em>
 </p>
-
-
-
-
-# 🔧 Technologies I'm learning
-
-<p align="left">
-  <img src="images/mo,small,flatlay,product_square,600x600.jpg" width="50" alt="3D Icon" />
-  <img src="images/logo-bash.png" width="50" alt="Bash Logo" />
-    <img src="images/blender.png" width="60" alt="Bash Logo" />
-</p>
-
-
-
-# 🚀 Upcoming projects
-- Automation scripts
-- Cybersecurity / CTF challenges
-- 3D and game development projects
 
 ---
 
-Thanks for visiting my profile! 🙌
+<!-- QUOTE INSPIRANTE -->
+<p align="center">
+  <em>"Knowing is not enough, we must apply. Willing is not enough, we must do." – Bruce Lee</em>
+</p>
+
+---
+
+<!-- GITHUB STATS -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hugou74130&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hugou74130&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hugou74130&theme=radical" alt="Commits per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hugou74130&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hugou74130&theme=radical&utcOffset=1" alt="Productive Time" />
+</p>
+
+---
+
+<!-- TECHNOLOGIES -->
+<h2 align="center">🔧 Technologies I'm learning</h2>
+<p align="center">
+  <img src="images/mo,small,flatlay,product_square,600x600.jpg" width="60" alt="3D Icon" />
+  <img src="images/logo-bash.png" width="60" alt="Bash Logo" />
+  <img src="images/blender.png" width="60" alt="Blender Logo" />
+</p>
+
+---
+
+<!-- PROJETS -->
+<h2 align="center">🚀 Upcoming Projects</h2>
+<ul>
+  <li>Automation scripts</li>
+  <li>Cybersecurity / CTF challenges</li>
+  <li>3D and game development projects</li>
+</ul>
+
+---
+
+<p align="center">
+  <em>Thanks for visiting my profile! 🙌</em>
+</p>
