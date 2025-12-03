@@ -1,6 +1,6 @@
 # Hi, I'm Hugo 👋
 
-🎓 Business Management student (BTS GPME)  
+🎓 Holberton School 
 💻 Passionate about programming, reverse engineering, and IT in general  
 🎯 Goal: improve my skills and work on various technical projects
 
