@@ -1,14 +1,11 @@
-# Salut, moi c’est Hugo 👋
+# Hi, I'm Hugo 👋
 
-🎓 Étudiant en BTS GPME  
-💻 Passionné par l’informatique, le reverse engineering et les langages de programmation  
-🎯 Objectif : Monter en compétences et développer de nouveaux projets
+🎓 Business Management student (BTS GPME)  
+💻 Passionate about programming, reverse engineering, and IT in general  
+🎯 Goal: improve my skills and work on various technical projects
 
-## 🔧 Technologies que j’apprends
-- C 
- 
-## 🚀 Mes projets à venir
-- Scripts d’automatisation
-
-Merci d’être passé sur mon profil !
-
+## 🔧 Technologies I'm learning
+- C / C++  
+## 🚀 Upcoming projects
+- Automation scripts  
+Thanks for visiting my profile!
