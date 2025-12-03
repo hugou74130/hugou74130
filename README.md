@@ -39,4 +39,4 @@
 Thanks for visiting my profile! 🙌
 
 		“Knowing is not enough, we must apply. Willing is not enough, we must do.”
-– Bruce Lee
+		– Bruce Lee
