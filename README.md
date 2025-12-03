@@ -1,11 +1,12 @@
 # Hi, I'm Hugo 👋
 
-🎓 Holberton School 
-💻 Passionate about programming, reverse engineering, and IT in general  
+🎓 Holberton School
+💻 Passionate about programming, reverse engineering, and IT in general
 🎯 Goal: improve my skills and work on various technical projects
 
 ## 🔧 Technologies I'm learning
-- C / C++  
+![Mon logo](/home/ramos/project_holberton/hugou74130/images/mo,small,flatlay,product_square,600x600.jpg)
+
 ## 🚀 Upcoming projects
-- Automation scripts  
+- Automation scripts
 Thanks for visiting my profile!
