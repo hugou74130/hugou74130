@@ -213,6 +213,8 @@
             height: auto;
             display: block;
             max-width: 400px;
+            background: rgba(30, 226, 252, 0.1);
+            min-height: 200px;
         }
 
         /* ========== TECHNOLOGIES ========== */
