@@ -24,6 +24,7 @@
 <p align="left">
   <img src="images/mo,small,flatlay,product_square,600x600.jpg" width="50" alt="3D Icon" />
   <img src="images/logo-bash.png" width="50" alt="Bash Logo" />
+    <img src="images/blender.png" width="60" alt="Bash Logo" />
 </p>
 
 ---
