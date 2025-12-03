@@ -8,16 +8,13 @@
 
 ## 📊 GitHub Stats
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hugou74130&theme=tokyonight)
-
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hugou74130&theme=tokyonight)
-
-![Commits per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hugou74130&theme=tokyonight)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hugou74130&theme=tokyonight)
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hugou74130&theme=tokyonight&utcOffset=1)
-
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hugou74130&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hugou74130&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hugou74130&theme=tokyonight" alt="Commits per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hugou74130&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hugou74130&theme=tokyonight&utcOffset=1" alt="Productive Time" />
+</p>
 
 
 ---
