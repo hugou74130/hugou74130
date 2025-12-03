@@ -8,7 +8,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hugou74130&theme=tokyonight" alt="Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hugou74130&theme=tokyonight" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hugou74130&theme=tokyonight" alt="Commits per Language" />
