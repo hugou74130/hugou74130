@@ -8,7 +8,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Summary
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hugou74130&theme=tokyonight)
 
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hugou74130&theme=tokyonight)
