@@ -6,8 +6,11 @@
 
 ## 🔧 Technologies I'm learning
 <p align="left">
-  <img src="images/mo,small,flatlay,product_square,600x600.jpg" width="40" alt="Image">
+  <img src="images/mo,small,flatlay,product_square,600x600.jpg"
+  width="40" alt="Image">
+  <img src="images/logo-bash.png" width="40" alt="Image">
 </p>
+
 
 
 ## 🚀 Upcoming projects
