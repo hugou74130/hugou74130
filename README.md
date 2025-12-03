@@ -5,7 +5,10 @@
 🎯 Goal: improve my skills and work on various technical projects
 
 ## 🔧 Technologies I'm learning
-![Mon logo](/home/ramos/project_holberton/hugou74130/images/mo,small,flatlay,product_square,600x600.jpg)
+<p align="left">
+  <img src="images/mo,small,flatlay,product_square,600x600.jpg" width="40" alt="Image">
+</p>
+
 
 ## 🚀 Upcoming projects
 - Automation scripts
