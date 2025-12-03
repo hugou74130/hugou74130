@@ -8,9 +8,17 @@
 
 ## 📊 GitHub Stats
 
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugou74130&show_icons=true&count_private=true&theme=tokyonight)
+## 📊 GitHub Summary
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hugou74130&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hugou74130&layout=compact&theme=tokyonight)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hugou74130&theme=tokyonight)
+
+![Commits per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hugou74130&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hugou74130&theme=tokyonight)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hugou74130&theme=tokyonight&utcOffset=1)
+
 
 
 ---
