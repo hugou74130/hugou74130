@@ -50,7 +50,6 @@
   </span></h2>
 <ul>
   <li>🤖 Automation scripts</li>
-  <li>🔐 Cybersecurity / CTF challenges</li>
   <li>🎮 3D and game development projects</li>
 </ul>
 
