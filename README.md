@@ -49,8 +49,8 @@
     🚀 Upcoming Projects
   </span></h2>
 <ul>
-  <li>🤖 Automation scripts</li>
-  <li>🎮 3D and game development projects</li>
+  <li></li>
+  <li></li>
 </ul>
 
 ---
@@ -68,5 +68,5 @@
 ---
 
 <p align="center">
-  <em>Thanks for visiting my profile! 🙌</em>
+  <em>Thanks for visiting my profile!</em>
 </p>
