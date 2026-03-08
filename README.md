@@ -5,7 +5,7 @@
   </span>
 </h1>
 <p align="center">
-  <em>🎓 Holberton School | 💻 Programming, 3D & Game Development | 🎯 Goal: Improve my skills</em>
+  <em>🎓 Holberton School | 💻 Programming, 3D | 🎯 Goal: Improve my skills</em>
 </p>
 
 <!-- CITATION INSPIRANTE -->
