@@ -43,17 +43,6 @@
 
 ---
 
-<!-- PROJETS AVEC EMOJIS -->
-<h2 align="center">
-  <span style="background: linear-gradient(90deg, #1ee2fcff, #9e35a7ff); -webkit-background-clip: text; color: transparent;">
-    🚀 Upcoming Projects
-  </span></h2>
-<ul>
-  <li></li>
-  <li></li>
-</ul>
-
----
 
 <!-- LIENS SOCIAUX -->
 <h2 align="center">
