@@ -15,18 +15,22 @@
 
 ---
 
-<!-- GITHUB STATS SUR UNE LIGNE -->
-<h2 align="center">GitHub Stats</h2>
+<!-- GITHUB STATS -->
+<h2 align="center">
+  <span style="background: linear-gradient(90deg, #5b5555ff, #d1210aff); -webkit-background-clip: text; color: transparent;">
+    📊 GitHub Stats
+  </span>
+</h2>
 
-<!-- Trophées -->
+<!-- Vues du profil -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hugou74130&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://komarev.com/ghpvc/?username=hugou74130&style=for-the-badge&color=fe428e&label=PROFILE+VIEWS" />
 </p>
 
 <!-- Stats + Langues -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hugou74130&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugou74130&layout=compact&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hugou74130&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hugou74130&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
 <!-- Streak -->
@@ -34,11 +38,10 @@
   <img src="https://streak-stats.demolab.com?user=hugou74130&theme=radical&hide_border=true" />
 </p>
 
-<!-- Graph -->
+<!-- Graphe d'activité -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hugou74130&theme=redical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hugou74130&theme=radical&hide_border=true" />
 </p>
-
 ---
 
 <!-- TECHNOLOGIES AVEC ICONS ET BADGES -->
