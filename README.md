@@ -16,18 +16,28 @@
 ---
 
 <!-- GITHUB STATS SUR UNE LIGNE -->
-<h2 align="center">
-  <span style="background: linear-gradient(90deg, #5b5555ff, #d1210aff); -webkit-background-clip: text; color: transparent;">
-    GitHubs Stats 👋
-  </span></h2>
+<h2 align="center">GitHub Stats</h2>
+
+<!-- Trophées -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hugou74130&theme=radical" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hugou74130&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hugou74130&theme=radical" alt="Commits per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hugou74130&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hugou74130&theme=radical&utcOffset=1" alt="Productive Time" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hugou74130&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
+<!-- Stats + Langues -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hugou74130&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugou74130&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
+
+<!-- Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hugou74130&theme=radical&hide_border=true" />
+</p>
+
+<!-- Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hugou74130&theme=redical&hide_border=true" />
+</p>
 ---
 
 <!-- TECHNOLOGIES AVEC ICONS ET BADGES -->
