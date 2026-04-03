@@ -38,6 +38,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hugou74130&theme=redical&hide_border=true" />
 </p>
+
 ---
 
 <!-- TECHNOLOGIES AVEC ICONS ET BADGES -->
