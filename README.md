@@ -68,6 +68,26 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hugou74130&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugou74130/hugou74130/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hugou74130/hugou74130/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hugou74130/hugou74130/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ## 🚀 Connect with me
 
 <p align="center">
