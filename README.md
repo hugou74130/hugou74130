@@ -29,8 +29,6 @@
 | Project | Stack | Description |
 |---------|-------|-------------|
 | [SM64LuaRedux](https://github.com/hugou74130/SM64LuaRedux) | Lua, C | Contributing to the leading SM64 TASing utility |
-| [HBNB](https://github.com/hugou74130/holbertonschool-hbnb) | Python, Flask, SQLAlchemy | AirBnB clone with 3-layer architecture |
-| [Simple Shell](https://github.com/hugou74130/holbertonschool-simple_shell) | C, Linux | UNIX interpreter — fork, execve, PATH, built-ins |
 | [Portfolio](https://hugou74130.github.io) | HTML, CSS, JS | Interactive terminal-themed portfolio |
 
 ---
