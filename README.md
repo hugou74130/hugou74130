@@ -29,7 +29,7 @@
 | Project | Stack | Description |
 |---------|-------|-------------|
 | [SM64LuaRedux](https://github.com/hugou74130/SM64LuaRedux) | Lua, C | Contributing to the leading SM64 TASing utility |
-| [Portfolio](https://hugou74130.github.io) | HTML, CSS, JS | Interactive terminal-themed portfolio |
+| [Portfolio](https://github.com/mupen64/mupen64-rr-lua) | C++ | Emulator for TASING |
 
 ---
 
