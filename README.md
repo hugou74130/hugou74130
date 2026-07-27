@@ -15,16 +15,14 @@
 
 ---
 
-## 🎓 Currently Learning
+##  Currently Learning
 
-- **React Native + Expo** — cross-platform mobile development
-- **Python / Flask** — REST APIs, backend architecture
-- **C & Linux** — system programming, syscalls, memory management
-- **Lua** — scripting for emulator tooling and automation
+- **C & C++**
+- **Lua**
 
 ---
 
-## 🚀 Projects I'm Proud Of
+##  Projects I'm Proud Of
 
 | Project | Stack | Description |
 |---------|-------|-------------|
@@ -33,7 +31,7 @@
 
 ---
 
-## 🔧 Technologies & Tools
+##  Technologies & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -49,7 +47,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hugou74130&style=for-the-badge&color=fe428e&label=PROFILE+VIEWS" />
