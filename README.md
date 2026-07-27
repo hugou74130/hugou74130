@@ -13,7 +13,9 @@
   <em>"Knowing is not enough, we must apply. Willing is not enough, we must do." – Bruce Lee</em>
 </p>
 
----
+<p align="center">
+<img src="https://cdn.imageurlgenerator.com/uploads/581cb04f-d8e3-415d-8c25-c52c6a633619.gif" />
+</p>
 
 ##  Currently Learning
 
@@ -26,7 +28,7 @@
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [SM64LuaRedux](https://github.com/hugou74130/SM64LuaRedux) | Lua, C | Contributing to the leading SM64 TASing utility |
+| [SM64LuaRedux](https://github.com/mupen64/SM64LuaRedux) | Lua, C | Contributing to the leading SM64 TASing utility |
 | [Mupen64](https://github.com/mupen64/mupen64-rr-lua) | C++ | Emulator for TASING |
 
 ---
