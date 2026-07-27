@@ -1,11 +1,11 @@
 <!-- HEADER AVEC GRADIENT ANIMÉ -->
 <h1 align="center">
   <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">
-    Hi, I'm Hugo 👋
+    Hi, I'm Hugo
   </span>
 </h1>
 <p align="center">
-  <em>🎓 Holberton School | 💻 Programming, 3D | 🎯 Goal: Improve my skills</em>
+
 </p>
 
 <!-- CITATION INSPIRANTE -->
@@ -65,16 +65,7 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hugou74130&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🐍 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <picture>
@@ -86,7 +77,7 @@
 
 ---
 
-## 🚀 Connect with me
+##  Connect with me
 
 <p align="center">
   <a href="https://github.com/hugou74130"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
