@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-<img src="https://cdn.imageurlgenerator.com/uploads/581cb04f-d8e3-415d-8c25-c52c6a633619.gif" />
+<img src="" />
 </p>
 
 ##  Currently Learning
